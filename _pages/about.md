@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student at <a href='https://imagine-lab.enpc.fr/'>IMAGINE</a> and <a href='https://www.lisn.upsaclay.fr/'>LISN</a>.
 
 profile:
   align: right
